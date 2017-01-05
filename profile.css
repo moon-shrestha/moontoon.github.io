@@ -1,0 +1,52 @@
+*{
+    margin:auto;
+    padding:0  auto;
+}
+
+nav{
+    background-color: indianred;
+    color: black;
+    height: 100px;
+    color: white;
+}
+h1{
+    font-family: Castellar;
+    font-size: larger;
+    color: white;
+}
+
+
+/*#logout{
+    float:right;
+}*/
+body{
+    background-color: black;
+}
+
+div{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    font-size: 55px;
+    float: right;
+    margin-top: 15px;
+}
+
+iframe{
+    float: right;
+}
+
+#photo{
+    float: left;
+    margin-left: 200px;
+}
+
+#video{
+    float: right;
+    margin-right: 200px;
+}

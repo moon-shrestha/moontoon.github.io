@@ -1,0 +1,63 @@
+
+body
+{
+    width:100%;
+    height:100%;
+    background-image: url("ff.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+fieldset{
+    background-color: transparent;
+    background-position: center;
+    height: 300px;
+    width: 500px;
+}
+
+.login{
+
+float: left;
+margin-left: 30%;
+
+
+}
+
+.register{
+    float: right;
+    margin-top: 15%;
+    margin-right: 40.5%;
+}
+#signup{
+    width: 400px;
+    height: 35px;
+    background-color: #dc8782;
+    color: #fff;
+    border-radius: 30px;
+    border-style: solid;
+    border-size:1000px;
+    
+    
+    font-size: 20px;
+
+}
+
+#signin
+{
+    width: 400px;
+    height: 35px;
+    background-color: #dc8782;
+    color: #fff;
+    border-radius: 30px;
+    border-style: solid;
+    border-size:1000px;
+    
+    font-size: 20px;
+}
+
+div{
+    color: white;
+    float: right;
+    margin-top: 100px;
+    margin-right: 100px;
+}
