@@ -1,0 +1,45 @@
+nav{
+    background-color: midnightblue;
+    color: white;
+    height: 80px;
+}
+a{
+    float:right;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding-right: 10px;
+    padding-top: 25px;
+}
+h1{
+    font-size: 50px;
+}
+
+}
+form{
+    height: 50px;
+    width: 40px;
+}
+fieldset{
+    height:250px;
+    width: 550px;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+img{
+    height: 120px;
+    width: 200px;
+    float: left;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+.text{
+    float: right;
+    padding-right: 20px;
+    alignment: left;
+}
+select{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    height: 20px;
+}
